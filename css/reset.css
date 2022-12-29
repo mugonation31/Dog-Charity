@@ -1,0 +1,29 @@
+/* RESET */
+
+body,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* This gets rid of the bullet points */
+ul {
+  list-style: none;
+}
+
+/* This gets rid of the underlining on the link text */
+a {
+  text-decoration: none;
+}
+
+address {
+  font-style: normal;
+}
+/* END RESET */
